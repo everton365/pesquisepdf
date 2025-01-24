@@ -1,4 +1,4 @@
-('C:\\Users\\evert\\OneDrive\\Desktop\\pythonPDF\\build\\pdf\\PYZ-00.pyz',
+('C:\\Users\\evert\\pesquisepdf\\build\\pdf\\PYZ-00.pyz',
  [('PyPDF2',
    'C:\\Users\\evert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyPDF2\\__init__.py',
    'PYMODULE'),
